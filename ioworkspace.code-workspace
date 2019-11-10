@@ -1,0 +1,16 @@
+{
+    "folders": [
+		{
+			"path": "test"
+		},
+		{
+			"name": "tank-v6",
+			"path": "tank-v6"
+		},
+		{
+			"name": "tank-v5",
+			"path": "tank-v5"
+		}
+	],
+    "settings": {}
+}

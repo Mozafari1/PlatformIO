@@ -1,0 +1,57 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "c:/Users/m_rah/OneDrive/Documents/PlatformIO/Projects/PlatformIO/tank-v2/include",
+                "c:/Users/m_rah/OneDrive/Documents/PlatformIO/Projects/PlatformIO/tank-v2/src",
+                "C:/Users/m_rah/.platformio/lib/MFRC522_ID63/src",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/variants/mega",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "C:/Users/m_rah/.platformio/lib/Servo_ID883/src",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "C:/Users/m_rah/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "c:/Users/m_rah/OneDrive/Documents/PlatformIO/Projects/PlatformIO/tank-v2/include",
+                    "c:/Users/m_rah/OneDrive/Documents/PlatformIO/Projects/PlatformIO/tank-v2/src",
+                    "C:/Users/m_rah/.platformio/lib/MFRC522_ID63/src",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/cores/arduino",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/variants/mega",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                    "C:/Users/m_rah/.platformio/lib/Servo_ID883/src",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                    "C:/Users/m_rah/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                    "C:/Users/m_rah/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40100",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10805",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"C:/Users/m_rah/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe\" -mmcu=atmega2560"
+        }
+    ],
+    "version": 4
+}
